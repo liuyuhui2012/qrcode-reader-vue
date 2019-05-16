@@ -3,7 +3,7 @@
 > A Vue.js project
 
 Demo live
-https://liuyuhui2012.github.io/qrcode-reader-vue/index.html#/
+https://liuyuhui2012.github.io/qrcode-reader-vue/dist/#/
 
 ## Build Setup
 
