@@ -7,10 +7,10 @@ import Mint from 'mint-ui';
 Vue.use(Mint);
 import 'mint-ui/lib/style.css'
 Vue.config.productionTip = false
-import VConsole from 'vconsole'
-if (process.env.NODE_ENV === 'production') {
-  new VConsole()
-}
+// import VConsole from 'vconsole'
+// if (process.env.NODE_ENV === 'production') {
+//   new VConsole()
+// }
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
